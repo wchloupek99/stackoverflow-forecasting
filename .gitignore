@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+
+# Credentials
+credentials/
+.env
+
+# Data
+data/
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude

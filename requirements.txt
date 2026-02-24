@@ -1,0 +1,10 @@
+google-cloud-bigquery
+google-cloud-bigquery-storage
+pyarrow
+pandas
+prophet
+plotly
+matplotlib
+scikit-learn
+python-dotenv
+db-dtypes
